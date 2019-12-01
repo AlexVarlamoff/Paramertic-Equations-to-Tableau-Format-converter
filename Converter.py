@@ -8,9 +8,11 @@ The code allows converting parametric equations from https://www.wolframalpha.co
 6. Open a new project in Tableau, create a calculation X and paste the text. There will be 2 strings pasted. 
 7. Cut a lower string ad click 'Ok'
 8. Create a new calculation 'Y' and paste it, click 'Ok'
-'''
 
 Now we have parametric equation for X and Y where t is a variable
+'''
+
+
 
 import re
 import os
